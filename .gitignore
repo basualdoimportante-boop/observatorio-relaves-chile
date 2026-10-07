@@ -1,0 +1,33 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos pesados y con licencia
+data/caserios_2017/
+data/CATASTRO_RELAVES_CHILE_OCT2025.xlsx
+data/live_*.csv
+data/mapa_amenaza.csv
+data/precipitacion_*.csv
+data/*.zip
+data/*.shp
+data/*.shx
+data/*.dbf
+data/*.prj
+data/*.cpg
+data/*.sbn
+data/*.sbx
+data/*.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+data/Supplementary_Tables_S1-S10.pdf

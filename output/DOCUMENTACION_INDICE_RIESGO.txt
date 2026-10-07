@@ -1,0 +1,43 @@
+
+DOCUMENTACION METODOLOGICA - INDICE DE RIESGO PRELIMINAR
+============================================================
+
+1. FUENTES DE REFERENCIA
+   - Canadian Dam Association (CDA). Dam Safety Guidelines. 2013.
+   - Australian National Committee on Large Dams (ANCOLD).
+     Guidelines on Tailings Dams. 2012.
+   - Servicio Nacional de Geologia y Mineria (SERNAGEOMIN).
+     Catastro de Depositos de Relaves. Octubre 2025.
+
+2. FACTORES DEL INDICE (maximo 11 puntos)
+   
+   Factor 1: Consecuencia (max 4 puntos)
+     Proxy: distancia al caserio mas cercano.
+     Limitacion: no usa Poblacion en Riesgo (PAR) real.
+   
+   Factor 2: Probabilidad de falla (max 4 puntos)
+     Basado en metodo constructivo + estado.
+     Limitacion: no incluye contenido de solidos ni altura de muro.
+   
+   Factor 3: Escala (max 3 puntos)
+     Basado en tonelaje.
+     Limitacion: no incluye altura del muro.
+
+3. LIMITACIONES GENERALES
+   - No incluye sismicidad.
+   - No incluye precipitacion extrema.
+   - No incluye reologia (contenido de solidos).
+   - No incluye historial de incidentes.
+   - Distancias en linea recta (no por cauces).
+
+4. CLASIFICACION DE NIVELES
+   EXTREMO:   indice >= 9
+   MUY_ALTO:  indice 7-8
+   ALTO:      indice 5-6
+   MEDIO:     indice 3-4
+   BAJO:      indice 0-2
+
+5. USO DEL INDICE
+   Este indice es una HERRAMIENTA DE PRIORIZACION.
+   No reemplaza una evaluacion geotecnica profesional.
+   Debe actualizarse cuando se incorporen sismicidad y precipitacion.
