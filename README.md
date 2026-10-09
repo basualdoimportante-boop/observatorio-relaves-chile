@@ -215,6 +215,11 @@ La información contenida en este repositorio y en el dashboard público **será
 - Estado verificado de mitigación, sanciones y monitoreo.
 - Oferta de datos crudos, metodología y código fuente para verificación independiente.
 
+### Estado del envío
+
+La comunicación fue enviada a las instituciones destinatarias el **9 de octubre de 2026**. Al cierre de esta versión del README, no se registran respuestas.
+
+Cualquier respuesta institucional será documentada en futuras actualizaciones del repositorio.
 ---
 
 ## Limitaciones
